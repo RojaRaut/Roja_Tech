@@ -2,4 +2,3 @@ Loan_ID,Gender,Married,Dependents,Education,Self_Employed,ApplicantIncome,Coappl
 LP006000,Male,Yes,1,Graduate,No,4583,1508,128,360,1,Rural
 LP008000,Male,Yes,0,Not Graduate,No,2583,2358,120,360,1,Urban
 LP001002,Male,No,0,Graduate,No,5849,0,,360,1,Urban,Y
-LP001008,Male,No,0,Graduate,No,6000,0,141,360,1,Urban,Y
